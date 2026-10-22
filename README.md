@@ -78,5 +78,7 @@ Financial support through Patreon or PayPal is never required to use or feature 
 ---
 
 **PX5 ZAR Helper™**  
+
 ![PX5 ZAR Helper™](PX5-ZAR-Helper.jpg)
+
 Created by **M.E.H.™ — Founder of MEH Studio™**
